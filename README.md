@@ -7,8 +7,8 @@ Este é um simulador de caixa eletrônico desenvolvido em Python que permite ao 
  ### Funcionalidades
    - Permite ao usuário sacar dinheiro, desde que haja saldo suficiente. 
    - Permite ao usuário depositar dinheiro.
-   - O programa sempre realiza uma verificação rápida do saldo atual após uma operação a fim de deixar o usuário inteirado
-     acerca do quanto ainda tem.
+   - O programa sempre realiza uma verificação rápida do saldo atual após uma operação a fim de deixar o usuário<br>
+     inteirado acerca do quanto ainda possui.
    - Realiza verificação total do saldo: mostra o saldo inicial e o saldo atual da conta.
    - Permite ao usuário sair do programa de maneira segura.
 
